@@ -1,8 +1,4 @@
-# vuejs2-summernote-component
-
-> A simple Vuejs 2.2.x Component for Summernote to get started
-
-[DEMO](https://stefanneuser.github.io/vuejs2-summernote-component/dist/index.html)
+# vuejs2-summernote-firsttask
 
 ## Build Setup
 
@@ -19,5 +15,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
